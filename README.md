@@ -60,7 +60,7 @@ Kod som lades till:
 ```
 
 ## Add data to the intent bundle using extras
-I Second Activity skapades två knappar, båda fick metoden onClick. Den första knappen "goback" (NO),
+I Second Activity skapades två knappar, båda fick metoden onClick. Den första knappen "goback" ("YES"),
 användes kod för att stänga `Second Activity`  genom funktionen finich() och då kommer man tillbaka 
 till `MainActivity`.
 
@@ -75,7 +75,7 @@ goback.setOnClickListener(new View.OnClickListener() {
         finish();
      
 ```
-Den andra knappen "goforward" (NO) fick data som skickades vidare till `Third Activity` via funktionen
+Den andra knappen "goforward" ("NO") fick data som skickades vidare till `Third Activity` via funktionen
 extra i detta fall intent.putExtra. 
 
 Kod: 
