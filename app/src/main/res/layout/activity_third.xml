@@ -10,7 +10,7 @@
         android:id="@+id/text3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/carter_one"
+        android:fontFamily="sans-serif-medium"
         android:textColor="#0E0E0E"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
