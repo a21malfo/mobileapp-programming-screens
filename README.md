@@ -76,7 +76,7 @@ goback.setOnClickListener(new View.OnClickListener() {
      
 ```
 Den andra knappen "goforward" ("NO") fick data som skickades vidare till `Third Activity` via funktionen
-extra i detta fall intent.putExtra. 
+extra i detta fall intent.putExtra(). 
 
 Kod: 
 
