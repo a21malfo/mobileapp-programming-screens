@@ -93,7 +93,7 @@ goforward.setOnClickListener(new View.OnClickListener() {
      }
 });
 ```
-![](Screenshot_1.pngg)
+![](Screenshot_1.png)
 
 ![](Screenshot_2.png)
 
