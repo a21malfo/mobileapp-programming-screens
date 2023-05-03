@@ -26,7 +26,7 @@ Kod för knappen:
 ```
 
 Skapade även kod i `MainActivity` för att dels skapa variabeln button men också för att
-skapa en interagerbar UI-komponent en Onclick, i detta fall en knapp, se nedan kod: 
+skapa en interagerbar UI-komponent en onClick, i detta fall en knapp, se nedan kod: 
 
 ```
     @Override
